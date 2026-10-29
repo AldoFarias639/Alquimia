@@ -32,7 +32,8 @@ A **Alquimia Lab** é uma loja virtual fictícia voltada para a comercializaçã
 
 
 ## Captura de Tela
-<img width="1920" height="1020" alt="Captura de tela 2026-10-28 212204" src="https://github.com/user-attachments/assets/fb589119-2a6e-4699-a74c-ff3f151f064b" />
+<img width="1355" height="836" alt="Captura de tela 2026-10-28 212204" src="https://github.com/user-attachments/assets/68d03954-0eaf-46e3-9059-ccd47dc7c78e" />
+
 
 ## Testes Realizados
 * **Teste 1 (Compra Mista):** Inseridas quantidades variadas para os três produtos. Verificada a precisão matemática dos subtotais e do valor total.
@@ -46,4 +47,4 @@ A **Alquimia Lab** é uma loja virtual fictícia voltada para a comercializaçã
 
 
 ## Uso de Inteligência Artificial
-A Inteligência Artificial foi utilizada como ferramenta de apoio pedagógico para estruturar a lógica condicional em JavaScript, otimizar a formatação de valores monetários com `.toFixed(2)` e refinar o design responsivo em CSS. Todo o código gerado foi revisado, adaptado e compreendido linha por linha para garantir total domínio sobre a implementação.
+A Inteligência Artificial (Gemini) foi utilizada como ferramenta de apoio no refino do design responsivo em CSS. 
