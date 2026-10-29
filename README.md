@@ -2,12 +2,12 @@
 
 ## Identificação
 * **Nome do Projeto:** Alquimia Lab — Simulador de Compras
-* **Aluno:** Aldo Farias
-* **Trilha:** Desenvolvimento / Programação Web
+* **Aluno:** Aldo da Silva Farias
+* **Trilha:** Desenvolvimento Mobile
 
 
 ## Apresentação da Loja
-A **Alquimia Lab** é uma loja virtual fictícia voltada para a comercialização de reagentes químicos de alta pureza, vidrarias de precisão e Equipamentos de Proteção Individual (EPIs) para laboratórios. O projeto foi estruturado com foco em uma identidade visual sóbria, limpa e alinhada ao ambiente acadêmico e industrial da Engenharia Química.
+A **Alquimia Lab** é uma loja virtual fictícia voltada para a comercialização de reagentes químicos, vidrarias de precisão e Equipamentos de Proteção Individual (EPIs) para laboratórios. O projeto foi estruturado com foco em uma identidade visual limpa e alinhada ao ambiente acadêmico e industrial da Engenharia Química.
 
 ### Produtos e Preços:
 1. **Béquer de Vidro Borossilicato (1000ml)** — R$ 45,00
@@ -25,9 +25,9 @@ A **Alquimia Lab** é uma loja virtual fictícia voltada para a comercializaçã
 
 
 ## Instruções de Execução
-1. Faça o download ou clone este repositório em sua máquina.
+1. Faça o download ou clone este repositório no seu computador.
 2. Certifique-se de que os arquivos `index.html`, `style.css` e `script.js` estejam na mesma pasta principal.
-3. Abra o arquivo `index.html` em qualquer navegador web moderno (Google Chrome, Firefox, Edge, etc.).
+3. Abra o arquivo `index.html` em um navegador web (Google Chrome, Firefox, Edge, etc.).
 4. Clique no botão **"Simular compra"**, preencha as quantidades desejadas nas caixas de diálogo e acompanhe o resumo do pedido.
 
 
