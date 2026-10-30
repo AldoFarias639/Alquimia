@@ -47,4 +47,4 @@ A **Alquimia Lab** é uma loja virtual fictícia voltada para a comercializaçã
 
 
 ## Uso de Inteligência Artificial
-A Inteligência Artificial (Gemini) foi utilizada como ferramenta de apoio no refino do design responsivo em CSS. 
+A Inteligência Artificial (Gemini) foi utilizada como ferramenta de apoio na elaboração do JavaScript. 
